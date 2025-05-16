@@ -6,16 +6,23 @@ Oi, eu sou Vanessa, uma estudante apaixonada por **ciência e tecnologia**. Acre
 
 O meu objetivo é utilizar de ferramentas como **Python e SQL** para resolver desafios e otimizar tarefas repetitivas, trazendo mais produtividade e foco ao que somente nós, seres humanos, conseguimos fazer: cuidar de questões complexas que requerem empatia e inteligência humana, e não artificial. 
 
-Aqui compartilho projetos, ideias e experimentos que refletem essa jornada.
+Falando um pouco sobre mim: sou metida a escritora, amo dissertar sobre assuntos relevantes e ter uma boa discussão saudável, além de ser uma leitora assídua. Sempre gostei de estudar redação, português, matemática, física e química. Sou muito entusiasta da área Estatística e gosto de pensar em hipóteses e possibilidades diferentes de realizar a mesma coisa. 
+
+Assisto séries com frequência, gosto de gastronomia e pratico atividades físicas regularmente. 
+
+Ah, e sou muito sonhadora também. Histórias de ficção e fantasia são as minhas preferidas.
+
+![Descrição do GIF](https://i.pinimg.com/originals/ce/65/05/ce65058d72c933955c24d207c3737606.gif)
+
+Aqui compartilho projetos, ideias e experimentos que refletem o início da minha jornada em dados. Vem comigo!
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-castro-553997205/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castrovan2001@gmail.com)
 ---
-## 🤖 Linguagens e Tecnologias
+## 📈 Linguagens e Tecnologias
 
 <!-- Ícones alinhados à esquerda com espaçamento -->
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
-<img align="left" alt="Excel" title="Excel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/excel/excel-original.svg"/>
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 <img align="left" alt="PowerBI" title="Power BI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg"/>
 <img align="left" alt="Looker Studio" title="Looker Studio" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Looker_Studio_icon.svg"/>
