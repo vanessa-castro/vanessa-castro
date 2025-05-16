@@ -13,7 +13,8 @@ Assisto séries com frequência, gosto de gastronomia e pratico atividades físi
 Ah, e sou muito sonhadora também. Histórias de ficção e fantasia são as minhas preferidas.
 
 ![Descrição do GIF](https://i.pinimg.com/originals/ce/65/05/ce65058d72c933955c24d207c3737606.gif)
-![Descrição](https://i.pinimg.com/originals/ce/65/05/ce65058f72c973955c24d287c3737866.gif =100x)
+
+<img src="URL_DO_GIF" style="width: 150px; height: auto;"/>
 
 Aqui compartilho projetos, ideias e experimentos que refletem o início da minha jornada em dados. Vem comigo!
 
