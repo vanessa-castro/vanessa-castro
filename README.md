@@ -12,9 +12,7 @@ Assisto séries com frequência, gosto de gastronomia e pratico atividades físi
 
 Ah, e sou muito sonhadora também. Histórias de ficção e fantasia são as minhas preferidas.
 
-![Descrição do GIF](https://i.pinimg.com/originals/ce/65/05/ce65058d72c933955c24d207c3737606.gif)
-
-<img src="https://i.pinimg.com/originals/ce/65/05/ce65058d72c933955c24d207c3737606.gif" style="width: 150px; height: auto;"/>
+<img src="https://i.pinimg.com/originals/ce/65/05/ce65058d72c933955c24d207c3737606.gif" style="width: 300px; height: auto;"/>
 
 Aqui compartilho projetos, ideias e experimentos que refletem o início da minha jornada em dados. Vem comigo!
 
@@ -26,8 +24,5 @@ Aqui compartilho projetos, ideias e experimentos que refletem o início da minha
 <!-- Ícones alinhados à esquerda com espaçamento -->
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
-<img align="left" alt="PowerBI" title="Power BI" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Power_bi_logo_black.svg"/>
-<img align="left" alt="Looker Studio" title="Looker Studio" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/d/db/Looker_Studio_icon.svg"/>
-<img align="left" alt="Google Analytics" title="Google Analytics" width="30px" style="padding-right:10px;" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Google_Analytics_icon.svg"/>
-<br/><br/><br/><br/><br/> <!-- Espaço extra para alinhar o texto abaixo -->
+
 
