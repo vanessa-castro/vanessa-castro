@@ -14,7 +14,7 @@ Ah, e sou muito sonhadora também. Histórias de ficção e fantasia são as min
 
 ![Descrição do GIF](https://i.pinimg.com/originals/ce/65/05/ce65058d72c933955c24d207c3737606.gif)
 
-<img src="URL_DO_GIF" style="width: 150px; height: auto;"/>
+<img src="https://i.pinimg.com/originals/ce/65/05/ce65058d72c933955c24d207c3737606.gif" style="width: 150px; height: auto;"/>
 
 Aqui compartilho projetos, ideias e experimentos que refletem o início da minha jornada em dados. Vem comigo!
 
