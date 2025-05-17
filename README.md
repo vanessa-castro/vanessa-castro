@@ -6,14 +6,14 @@ Oi, eu sou Vanessa, uma estudante apaixonada por **ciência e tecnologia**. Acre
 
 O meu objetivo é utilizar de ferramentas como **Python e SQL** para resolver desafios e otimizar tarefas repetitivas, trazendo mais produtividade e foco ao que somente nós, seres humanos, conseguimos fazer: cuidar de questões complexas que requerem empatia e inteligência humana, e não artificial. 
 
-Falando um pouco sobre mim: sou "metida" a escritora, amo dissertar sobre assuntos relevantes e ter uma boa discussão saudável, além de ser uma leitora assídua. Sempre gostei de estudar redação, português, matemática, física e química. Sou muito entusiasta de Estatística e gosto de pensar em hipóteses e possibilidades diferentes de realizar a mesma coisa. 
+Falando um pouco sobre mim: sou "metida" a escritora, amo dissertar sobre assuntos relevantes e ter uma boa discussão saudável as quais posso ouvir, ser ouvida, aprender e ensinar, além de ser uma leitora assídua. Sempre gostei de estudar redação, português, matemática, física e química. Sou muito entusiasta de Estatística e Probabilidade e gosto de pensar em hipóteses e possibilidades diferentes de realizar a mesma coisa, priorizando a assertividade. 
 
 Assisto séries com frequência, gosto de gastronomia e pratico atividades físicas regularmente. 
 
 Ah, e sou muito sonhadora também. Histórias de ficção e fantasia são as minhas preferidas.
 
 <img src="https://i.pinimg.com/originals/ce/65/05/ce65058d72c933955c24d207c3737606.gif" style="width: 300px; height: auto;"/>
-
+<img src="https://i.pinimg.com/originals/bf/ff/c2/bfffc2d97428b42583c03f0a94cb004c.gif" style="width: 300px; height: auto;"/>
 
 
 Aqui compartilho projetos, ideias e experimentos que refletem o início da minha jornada em dados. Vem comigo!
