@@ -4,7 +4,7 @@
 
 Oi, eu sou Vanessa, uma estudante apaixonada por **ciência e tecnologia**. Acredito que, ao combinar essas áreas de estudo, é possível ter um mundo cada vez mais sustentável, inclusivo e inovador — onde dados precisos nos orientam a soluções, causando impactos reais. 
 
-O meu objetivo é utilizar de ferramentas como **Python e SQL** para resolver desafios e otimizar tarefas repetitivas, trazendo mais produtividade e foco ao que somente nós, seres humanos, conseguimos fazer: cuidar de questões complexas que requerem empatia e inteligência humana, e não artificial. 
+O meu objetivo é utilizar de ferramentas como **Python** para resolver desafios e otimizar tarefas repetitivas, trazendo mais produtividade e foco ao que somente nós, seres humanos, conseguimos fazer: cuidar de questões complexas que requerem empatia e inteligência humana, e não artificial. 
 
 Falando um pouco sobre mim: sou "metida" a escritora, amo dissertar e trocar ideias sobre assuntos relevantes e ter uma boa discussão saudável a qual posso ouvir, ser ouvida, aprender e ensinar, além de ser uma leitora assídua. 
 
