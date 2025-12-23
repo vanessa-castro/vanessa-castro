@@ -1,8 +1,8 @@
-# 🦋 Vanessa Castro
+# Vanessa Castro
 **Bem vindo(a) ao meu GitHub!**
 > "O gênio é 1% inspiração e 99% transpiração." – Thomas Edison ⚡
 
-Oi, eu sou Vanessa, uma estudante de Estatística com alto senso crítico e analítico. Acredito que, ao combinar habilidades técnicas e soft skills da área, é possível ter soluções assertivas que causam impactos reais no dia a dia. 
+Oi, eu sou Vanessa, estudante de Estatística na Universidade Estadual do Rio de Janeiro. Acredito que, ao combinar habilidades técnicas e soft skills da área, é possível ter soluções assertivas que causam impactos reais no dia a dia. 
 
 Aqui compartilho projetos, ideias e experimentos que refletem a minha jornada em dados. Vem comigo!
 
