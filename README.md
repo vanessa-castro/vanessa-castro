@@ -1,10 +1,10 @@
 # Vanessa Castro
 **Bem vindo(a) ao meu GitHub!**
-> "O gênio é 1% inspiração e 99% transpiração." – Thomas Edison ⚡
+> "Sem dados, você é apenas mais uma pessoa com uma opinião.” — W. Edwards Deming
 
 Oi! Eu sou a Vanessa, estudante de Estatística na Universidade do Estado do Rio de Janeiro (UERJ). Tenho background em negócios, parcerias e análise de performance, onde atuei com métricas, dados e tomada de decisão orientada a resultados.
 
-Atualmente, estou aprofundando minha formação em dados e estatística, desenvolvendo projetos que conectam análise de dados, modelagem, SQL, Python, R e visualização, sempre com foco em problemas reais de negócio.
+Atualmente, estou me aprofundando na área de dados e estatística, desenvolvendo projetos que conectam análise, modelagem, SQL, Python, R e visualização, sempre com foco em problemas reais de negócio.
 
 Aqui compartilho projetos, estudos e experimentos que refletem a minha formação. Estou aprendendo, errando, ajustando e evoluindo ao longo do caminho.
 
