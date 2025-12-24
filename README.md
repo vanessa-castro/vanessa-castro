@@ -13,21 +13,28 @@ Fique à vontade para explorar 😊
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vanessa-castro-553997205/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:castrovan2001@gmail.com)
 ---
-## 📈 Linguagens e Tecnologias
+### 🛠️ Linguagens e Ferramentas
 
-<!-- Ícones alinhados à esquerda com espaçamento -->
-<img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 <img align="left" alt="Python" title="Python" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
 
 <img align="left" alt="R" title="R" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg"/>
 
+<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+
 <img align="left" alt="MySQL" title="MySQL" width="30px" style="padding-right:10px;" 
 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg"/>
 
-<img align="left" alt="SQL" title="SQL" width="30px" style="padding-right:10px;" 
-src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg"/>
+<img align="left" alt="Git" title="Git" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg"/>
+
+<img align="left" alt="VS Code" title="VS Code" width="30px" style="padding-right:10px;" 
+src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg"/>
+
+<br />
+
 
 
 
