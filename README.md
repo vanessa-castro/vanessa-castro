@@ -1,18 +1,18 @@
 # Vanessa Castro
 **Bem vindo(a) ao meu GitHub!**
 
-Oi! Eu sou a Vanessa, estudante de Estatística na Universidade do Estado do Rio de Janeiro (UERJ) com experiência em análise de dados aplicada à performance, melhoria de processos e suporte à tomada de decisão orientada por dados.
+Oi! Eu sou a Vanessa, estudante de Estatística na Universidade do Estado do Rio de Janeiro (UERJ). Tenho experiência em análise de dados aplicada à performance, melhoria de processos e suporte à tomada de decisão orientada por dados.
 
-Atualmente, estou me aprofundando na área de dados e estatística, desenvolvendo projetos que conectam análise, modelagem, SQL, Python, R e visualização, sempre com foco em problemas reais de negócio. Aqui compartilho projetos, estudos e experimentos que refletem a minha formação. 
+Aqui compartilho projetos, estudos e experimentos que refletem a minha formação. 
 
 Tenho especial interesse em:
 
-Controle Estatístico de Processos (CEP)
-Lean Six Sigma e Melhoria Contínua
-Estatística Aplicada
-Ciência de Dados
-Analytics para tomada de decisão
-Modelagem estatística e análise exploratória de dados
+- Controle Estatístico de Processos (CEP)
+- Lean Six Sigma e Melhoria Contínua
+- Estatística Aplicada
+- Ciência de Dados
+- Analytics para tomada de decisão
+- Modelagem estatística e análise exploratória de dados
 
 📊 Aprendendo continuamente, transformando dados em conhecimento e buscando gerar impacto mensurável através do meu trabalho.
 
