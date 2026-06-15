@@ -1,6 +1,5 @@
 # Vanessa Castro
 **Bem vindo(a) ao meu GitHub!**
-> "Sem dados, você é apenas mais uma pessoa com uma opinião.” — W. Edwards Deming
 
 Oi! Eu sou a Vanessa, estudante de Estatística na Universidade do Estado do Rio de Janeiro (UERJ). Tenho background em negócios, parcerias e análise de performance, onde atuei com métricas, dados e tomada de decisão orientada a resultados.
 
